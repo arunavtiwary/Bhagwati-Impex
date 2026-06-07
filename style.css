@@ -195,7 +195,7 @@ img {
 .hero {
     position: relative;
     height: 520px;
-    background-image: url('https://static.toiimg.com/thumb/msid-123662279,imgsize-60584,width-400,height-225,resizemode-72/forest-officials-bust-illegal-sawmill-operation-in-dhemaji-seize-machinery-and-timber.jpg');
+    background-image: url('https://www.buildersalliance.com/wp-content/uploads/2024/04/lumber-banner-BA-1-scaled.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -427,7 +427,7 @@ img {
     content: '';
     position: absolute;
     inset: 0;
-    background: url('images/hero-bg.jpg') center/cover no-repeat;
+    background: url('https://www.normanlumber.com/wp-content/uploads/2021/01/arneson-timber-company-steelville-mo-26_50342780326_o-1-1024x683.jpg') center/cover no-repeat;
     opacity: 0.1;
 }
 
